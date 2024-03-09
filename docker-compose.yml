@@ -9,6 +9,7 @@ services:
       - "8080:80"
     volumes:
       - ./smokeping_config:/usr/local/smokeping/etc
+      - ./smokeping_data:/usr/local/smokeping/data
     container_name: smokeping-master
     environment:
       - TZ=Asia/Shanghai

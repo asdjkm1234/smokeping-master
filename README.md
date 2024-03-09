@@ -1,9 +1,5 @@
 # 使用教程
 
-## 演示站
-不保证长期有效  
-http://1.12.74.196/smokeping/smokeping.fcgi.dist
-
 ## 前置环境准备
 - docker环境
 - x86架构
